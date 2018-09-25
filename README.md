@@ -3,6 +3,6 @@
 
 # CN107958076A
 
-<!-- * https://patents.google.com/patent/CN107958076A/en -->
+* https://patents.google.com/patent/CN107958076A/en
 
-<!-- * https://patents.google.com/patent/CN107958076A/zh -->
+* https://patents.google.com/patent/CN107958076A/zh
